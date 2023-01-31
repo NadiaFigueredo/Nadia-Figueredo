@@ -1,0 +1,101 @@
+body { 
+    background-image: linear-gradient(to right, rgb(225, 217, 217), rgb(92, 18, 104)); 
+   
+}
+
+
+
+section#nombre {
+    border-radius: 45px;
+    font-family:   'Paprika', cursive;
+    font-size: 2rem;
+    width: 100%;
+    float: right;
+    text-align: center;
+    
+
+ }
+
+ 
+* {
+    box-sizing: border-box;
+  }
+
+
+section#datos{
+
+    float: left;
+    width: 40%;
+    height: 900px; 
+    background: #ccc;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    border: inset;
+    font-family: 'Indie Flower', cursive;
+    
+    
+  }
+  
+  
+section#mis_estudios {
+    float: left;
+    padding: 20px;
+    width: 60%;
+    height: 900px; 
+    background-color: #f1f1f1;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    border: outset;
+    font-family: 'Indie Flower', cursive;;
+    
+  }
+  
+  
+legend {
+    font-size:2rem;
+    text-transform: uppercase;
+    text-shadow: 2px 2px;
+    color:rgb(24, 15, 84);
+    font-style: normal;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;  
+    
+}
+
+span{
+    font-weight: bold;
+}
+
+.mis_datos {
+    text-transform: uppercase;
+    margin-bottom: 40px;
+    
+}
+
+.perfil_profesional {
+    margin-top: 70px;
+    text-align: center;
+
+}
+
+.mis_habilidades {
+    margin-top: 70px;
+}
+
+.contacto {
+    color: rgb(14, 73, 73);
+    margin-bottom: 40px;
+    
+}
+
+
+.titulos {
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.competencias {
+    text-align: center;
+    
+}
